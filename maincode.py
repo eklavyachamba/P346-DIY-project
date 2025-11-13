@@ -1,17 +1,7 @@
-"""
-moon_orbit_with_aphelion_perihelion.py
-RK4 simulation of Moon orbiting Earth (Earth fixed at origin).
-No NumPy required.
-
-Outputs:
- - energy.png
- - orbit.png
- - angular_momentum.png
- - speed_vs_distance.png
- - area_swept_per_time.png
- - effective_potential.png
- - parameters.txt
-"""
+#Name-Eklavya Chauhan
+#Date-2024-06-12
+#Project-P346 DIY Project: Simulating the Orbit of the Moon around the Earth usiging RK4 Method
+#Roll no- 2311067
 
 import math
 import matplotlib.pyplot as plt
